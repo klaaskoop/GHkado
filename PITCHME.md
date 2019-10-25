@@ -1,15 +1,16 @@
-## Ter gelegenheid van ...
+## Ons cadeau  
+## ter gelegenheid van
   
 12,5 jaar huwelijk  
 8,6 jaar verbouwen  
 1 jaar sinds de laatste verjaardag  
   
-### ...  
+## ...  
 ---
-## De nieuwe stoel!
+## Een nieuwe stoel!
 ---
 ### De zoek-instructies
-"mag elke **fijn-zittend**e, **goed ogend**e stoel zijn die **past in ons strakke interieur** (wat weer niet betekent dat hij zelf ook strak moet zijn). Hij komt te staan waar nu de dekenkist staat. Die muur is mintgroen ongeveer. Dus kleur kan vanalles zijn, maar **geen oranje, geel, paars**. **Soort telefoonstoel** zeg maar."
+"mag elke [text-green]**fijn-zittend**[text-black]e, **goed ogend**e stoel zijn die **past in ons strakke interieur** (wat weer niet betekent dat hij zelf ook strak moet zijn). Hij komt te staan waar nu de dekenkist staat. Die muur is mintgroen ongeveer. Dus kleur kan vanalles zijn, maar **geen oranje, geel, paars**. **Soort telefoonstoel** zeg maar."
 ---
 ### een strak interieur?
 ![](strak.jpg)
