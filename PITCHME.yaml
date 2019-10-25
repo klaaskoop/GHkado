@@ -4,8 +4,8 @@ layout : top-left
 theme            : template
 
 theme-background : [ "#FFF" ]
-theme-headline   : [ "Montserrat", "#5289F7", "none" ]
-theme-byline     : [ "Montserrat", "#111111", "none" ]
+theme-headline   : [ "Montserrat", "green", "none" ]
+theme-byline     : [ "Montserrat", "green", "none" ]
 theme-text       : [ "Open Sans", "#1C1C1C", "none" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Source Code Pro" ]
