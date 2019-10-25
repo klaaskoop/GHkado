@@ -3,7 +3,7 @@ layout : center-left
 
 theme            : template
 
-theme-background : [ "#FFF" ]
+theme-background : [ "linear-gradient(100deg, white 90%, green 10%)" ]
 theme-headline   : [ "Montserrat", "green", "none" ]
 theme-byline     : [ "Montserrat", "green", "none" ]
 theme-text       : [ "Open Sans", "#1C1C1C", "none" ]
