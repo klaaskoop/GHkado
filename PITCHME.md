@@ -1,29 +1,29 @@
-## Ter gelegenheid van ...
-
+### Ter gelegenheid van ...
+  
 - 12,5 jaar huwelijk  
 - 8,6 jaar verbouwen  
 - 1 jaar sinds de laatste verjaardag  
-
-## ...  
+  
+### ...  
 ---
-# De nieuwe stoel!
+## De nieuwe stoel!
 ---
-## De zoek-instructies
+### De zoek-instructies
 >mag elke **fijn-zittend**e, **goed ogend**e stoel zijn die **past in ons strakke interieur** (wat weer niet betekent dat hij zelf ook strak moet zijn). Hij komt te staan waar nu de dekenkist staat. Die muur is mintgroen ongeveer. Dus kleur kan vanalles zijn, maar **geen oranje, geel, paars**. **Soort telefoonstoel** zeg maar.
----?image=strak.jpg&size=auto 80%
-## een strak interieur?
+---?image=strak.jpg&size=auto 70%
+### een strak interieur?
 ---?image=telefoonstoel.jpg&size=auto 80%
-## een telefoonstoel?
+### een telefoonstoel?
 ---
-## Ons kado
-
+### Ons kado
+  
 Een stoel naar keuze  
 - uit onze selectie (zie verder)  
 - van eigen keuze  
 - en nog iets totaal anders  
 ---
-## Onze selectie
-
+### Onze selectie
+  
 opzij: de volgende optie
 1x naar beneden: de stoel
 2x naar beneden: de stoel ipv de dekenkist  
@@ -50,15 +50,15 @@ Trouwens, over die dekenkist
 ## 5 de cheque
 +++?image=kamercheque.jpg&size=auto 90%
 ---
-## 6 de marktplaatszoektocht
+### 6 de marktplaatszoektocht
 ![](marktplaats.png)
 ---
 ## En verder
 @div[left-50]
-
+  
 - Jullie zijn ingeschreven bij tuindersvereniging de Hoge Weide  
 - Er komt mogelijk dit jaar al een tuin vrij  
-- Wij betalen het eerste jaar
+- Wij betalen het eerste jaar 
 @divend
 
 @div[right-50]
