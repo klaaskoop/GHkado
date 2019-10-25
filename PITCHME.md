@@ -1,11 +1,10 @@
-## Ons cadeau  
-## ter gelegenheid van
-##  
+## Kado  
+### ter gelegenheid van 
   
 12,5 jaar huwelijk  
 6,25 jaar verbouwen  
 4 levensjaren
-## ...  
+### ...  
 ---
 ## Een nieuwe stoel!
 ---
