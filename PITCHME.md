@@ -9,7 +9,6 @@
 ---
 ## Een nieuwe stoel!
 ---
-### De zoek-instructies
 @snap[midpoint span-70]
 "mag elke **fijn-zittend**e, **goed ogend**e stoel zijn die **past in ons strakke interieur** (wat weer niet betekent dat hij zelf ook strak moet zijn). Hij komt te staan waar nu de dekenkist staat. Die muur is mintgroen ongeveer. Dus kleur kan vanalles zijn, maar **geen oranje, geel, paars**. **Soort telefoonstoel** zeg maar."
 @snapend
@@ -54,10 +53,10 @@ opzij: de volgende optie
 +++?image=retrosessel.jpg&size=auto 90%
 +++?image=kamerretrosessel.jpg&size=auto 90%
 ---
-## 5 de cheque
+## 5 de Cheque
 +++?image=kamercheque.jpg&size=auto 90%
 ---
-### 6 de marktplaatszoektocht
+### 6 de Marktplaatszoektocht
 ![](marktplaats.png)
 ---
 ## En verder
