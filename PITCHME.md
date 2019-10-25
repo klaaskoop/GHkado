@@ -2,16 +2,17 @@
 ## ter gelegenheid van
   
 12,5 jaar huwelijk  
-8,6 jaar verbouwen  
-1 jaar sinds de laatste verjaardag  
+6,25 jaar verbouwen  
+4 levensjaren  
   
 ## ...  
 ---
 ## Een nieuwe stoel!
 ---
 ### De zoek-instructies
-"mag elke @snap[text-green]**fijn-zittend**@snapend
-e, **goed ogend**e stoel zijn die **past in ons strakke interieur** (wat weer niet betekent dat hij zelf ook strak moet zijn). Hij komt te staan waar nu de dekenkist staat. Die muur is mintgroen ongeveer. Dus kleur kan vanalles zijn, maar **geen oranje, geel, paars**. **Soort telefoonstoel** zeg maar."
+@snap[midpoint span-70]
+"mag elke **fijn-zittend**e, **goed ogend**e stoel zijn die **past in ons strakke interieur** (wat weer niet betekent dat hij zelf ook strak moet zijn). Hij komt te staan waar nu de dekenkist staat. Die muur is mintgroen ongeveer. Dus kleur kan vanalles zijn, maar **geen oranje, geel, paars**. **Soort telefoonstoel** zeg maar."
+@snapend
 ---
 ### een strak interieur?
 ![](strak.jpg)
@@ -34,8 +35,7 @@ van eigen keuze
 opzij: de volgende optie  
 1x naar beneden: de stoel  
 2x naar beneden: de stoel ipv de dekenkist  
-  
-Trouwens, over die dekenkist  
+
 ![](annedekenkist.png)
 ---
 ##  1 de Woood
