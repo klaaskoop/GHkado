@@ -10,10 +10,7 @@
 ## Een nieuwe stoel!
 ---
 ### De zoek-instructies
-"mag elke 
-@snap[text-green]
-**fijn-zittend**
-@snapend
+"mag elke @snap[text-green]**fijn-zittend**@snapend
 e, **goed ogend**e stoel zijn die **past in ons strakke interieur** (wat weer niet betekent dat hij zelf ook strak moet zijn). Hij komt te staan waar nu de dekenkist staat. Die muur is mintgroen ongeveer. Dus kleur kan vanalles zijn, maar **geen oranje, geel, paars**. **Soort telefoonstoel** zeg maar."
 ---
 ### een strak interieur?
