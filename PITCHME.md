@@ -1,8 +1,8 @@
-### Ter gelegenheid van ...
+## Ter gelegenheid van ...
   
-- 12,5 jaar huwelijk  
-- 8,6 jaar verbouwen  
-- 1 jaar sinds de laatste verjaardag  
+12,5 jaar huwelijk  
+8,6 jaar verbouwen  
+1 jaar sinds de laatste verjaardag  
   
 ### ...  
 ---
@@ -20,8 +20,9 @@
 ### Ons kado
   
 1) Een stoel naar keuze  
-- uit onze selectie (zie verder)  
-- van eigen keuze  
+uit onze selectie (zie hierna)  
+OF
+van eigen keuze  
   
 2) nog iets anders (ook groen)  
 ---
