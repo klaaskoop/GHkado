@@ -9,6 +9,7 @@
 ## De zoek-instructies
 >mag elke **fijn-zittend**e, **goed ogend**e stoel zijn die **past in ons strakke interieur** (wat weer niet betekent dat hij zelf ook strak moet zijn). Hij komt te staan waar nu de dekenkist staat. Die muur is mintgroen ongeveer. Dus kleur kan vanalles zijn, maar **geen oranje, geel, paars**. **Soort telefoonstoel** zeg maar.
 ---
+## wat is een strak interieur?
 ![](strak.jpg)
 ---
 ## en wat is een telefoonstoel?
@@ -31,7 +32,7 @@ Trouwens, over die dekenkist
 +++?image=kamer wehkamp.jpg
 ---
 ## 2 de Montana
-+++?image=montane.png&size=auto 90%
++++?image=montana.png&size=auto 90%
 +++?image=kamermontana.jpg
 ---
 ## 3 de Touareg
@@ -50,9 +51,9 @@ Trouwens, over die dekenkist
 ---
 # En verder
 @div[left-50]
-Jullie zijn ingeschreven bij tuindersvereniging de Hoge Weide  
-Er komt mogelijk dit jaar al een tuin vrij  
-Wij betalen het eerste jaar
+- Jullie zijn ingeschreven bij tuindersvereniging de Hoge Weide  
+- Er komt mogelijk dit jaar al een tuin vrij  
+- Wij betalen het eerste jaar
 @divend
 
 @div[right-50]
