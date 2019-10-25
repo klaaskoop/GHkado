@@ -9,8 +9,8 @@
 ---
 ## Een nieuwe stoel!
 ---
-@snap[midpoint span-70]
-"mag elke **fijn-zittend**e, **goed ogend**e stoel zijn die **past in ons strakke interieur** (wat weer niet betekent dat hij zelf ook strak moet zijn). Hij komt te staan waar nu de dekenkist staat. Die muur is mintgroen ongeveer. Dus kleur kan vanalles zijn, maar **geen oranje, geel, paars**. **Soort telefoonstoel** zeg maar."
+@snap[midpoint span-80]
+"mag elke **fijn-zittend**e, **goed ogend**e stoel zijn die **past in ons strakke interieur** (wat weer niet betekent dat hij zelf ook strak moet zijn). Hij komt te staan waar nu de dekenkist staat. Kleur kan vanalles zijn, maar **geen oranje, geel, paars**. **Soort telefoonstoel** zeg maar."
 @snapend
 ---
 ### een strak interieur?
