@@ -32,7 +32,7 @@ Trouwens, over die dekenkist
 +++?image=kamer wehkamp.jpg
 ---
 ## 2 de Montana
-+++?image=montane.png&size=auto 90%
++++?image=montana.png&size=auto 90%
 +++?image=kamer montana.jpg
 ---
 ## 3 de Touareg
