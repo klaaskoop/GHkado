@@ -31,19 +31,18 @@ Trouwens, over die dekenkist
 ---
 ## 2 de Montana
 +++?image=montana.png&size=auto 90%
-+++?image=kamermontana.jpg
++++?image=kamermontana.jpg&size=auto 90%
 ---
 ## 3 de Touareg
 +++?image=touareg.jpg&size=auto 90%
 +++?image=kamertouareg.jpg&size=auto 90%
-+++?image=kamertouareg.jpg
 ---
 ## 4 de Retrosessel
 +++?image=retrosessel.jpg&size=auto 90%
-+++?image=kamerretrosessel.jpg
++++?image=kamerretrosessel.jpg&size=auto 90%
 ---
 ## 5 de cheque
-+++?image=kamercheque.jpg
++++?image=kamercheque.jpg&size=auto 90%
 ---
 ## 6 de marktplaatszoektocht
 ![](marktplaats.png)
