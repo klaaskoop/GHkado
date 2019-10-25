@@ -17,18 +17,20 @@
 ---
 ### Ons kado
   
-Een stoel naar keuze  
+1) Een stoel naar keuze  
 - uit onze selectie (zie verder)  
 - van eigen keuze  
-- en nog iets totaal anders  
+  
+2) nog iets anders (ook groen)  
 ---
 ### Onze selectie
   
-opzij: de volgende optie
-1x naar beneden: de stoel
+    
+opzij: de volgende optie  
+1x naar beneden: de stoel  
 2x naar beneden: de stoel ipv de dekenkist  
   
-Trouwens, over die dekenkist
+Trouwens, over die dekenkist  
 ![](annedekenkist.png)
 ---
 ##  1 de Woood
