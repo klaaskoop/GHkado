@@ -12,12 +12,7 @@
 "mag elke **fijn-zittend**e, **goed ogend**e stoel zijn die **past in ons strakke interieur** (wat weer niet betekent dat hij zelf ook strak moet zijn). Hij komt te staan waar nu de dekenkist staat. Die muur is mintgroen ongeveer. Dus kleur kan vanalles zijn, maar **geen oranje, geel, paars**. **Soort telefoonstoel** zeg maar."
 ---?image=strak.jpg&size=auto 70%
 ### een strak interieur?
-  
-    
-  
-  
-  
-    
+
 ---?image=telefoonstoel.jpg&size=auto 80%
 ### een telefoonstoel?
 ---
@@ -72,3 +67,4 @@ Trouwens, over die dekenkist
 @div[right-50]
 ![](tuin.jpg)
 @divend
+---
