@@ -1,8 +1,8 @@
-# Ter gelegenheid van ...
+## Ter gelegenheid van ...
 - 12,5 jaar huwelijk  
 - 8,6 jaar verbouwen  
 - 1 jaar sinds de laatste verjaardag  
-# ...  
+## ...  
 ---
 # De nieuwe stoel!
 ---
@@ -13,13 +13,13 @@
 ---?image=telefoonstoel.jpg&size=auto 80%
 ## en wat is een telefoonstoel?
 ---
-# Ons kado
+## Ons kado
 Een stoel naar keuze  
 - uit onze selectie (zie verder)  
 - van eigen keuze  
 - en nog iets totaal anders  
 ---
-# Onze selectie
+## Onze selectie
 (de dia beneden de stoel laat zien hoe het ongeveer staat in plaats van de dekenkist)  
   
 Trouwens, over die dekenkist
@@ -47,7 +47,7 @@ Trouwens, over die dekenkist
 ## 6 de marktplaatszoektocht
 ![](marktplaats.png)
 ---
-# En verder
+## En verder
 @div[left-50]
 - Jullie zijn ingeschreven bij tuindersvereniging de Hoge Weide  
 - Er komt mogelijk dit jaar al een tuin vrij  
