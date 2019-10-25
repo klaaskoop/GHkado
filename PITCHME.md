@@ -27,7 +27,7 @@ Trouwens, over die dekenkist
 ---
 ##  1 de Woood
 +++?image=woood.jpg&size=auto 90%
-+++?image=kamer wehkamp.jpg
++++?image=kamerwehkamp.jpg&size=auto 90%
 ---
 ## 2 de Montana
 +++?image=montana.png&size=auto 90%
@@ -35,6 +35,7 @@ Trouwens, over die dekenkist
 ---
 ## 3 de Touareg
 +++?image=touareg.jpg&size=auto 90%
++++?image=kamertouareg.jpg&size=auto 90%
 +++?image=kamertouareg.jpg
 ---
 ## 4 de Retrosessel
